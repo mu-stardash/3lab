@@ -1,1 +1,19 @@
-555 
+tag v1.0
+Tagger: Dasha Efimova <dashulya0301178@gmail.com>
+Date:   Wed Oct 5 18:06:00 2022 +0300
+
+my first trying
+
+commit 3fca0d02712081fd2a95aadfb8b011eaaea37d87
+Author: Dasha Efimova <dashulya0301178@gmail.com>
+Date:   Wed Oct 5 17:32:10 2022 +0300
+
+    Readme modified
+
+diff --git a/README b/README
+index 2e702f5..eaf05dc 100644
+--- a/README
++++ b/README
+@@ -1 +1 @@
+-"m3" 
++new 
